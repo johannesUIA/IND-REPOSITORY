@@ -1,3 +1,3 @@
 # IND-REPOSITORY
 
-dette er for læring
+dette er for læring v2 
