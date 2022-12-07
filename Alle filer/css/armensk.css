@@ -1,0 +1,49 @@
+body{
+
+    background-color: darkgrey;
+}
+p{
+
+    margin: 0px;
+}
+.blue {
+    background-color: blue;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 50px;
+}
+
+.orange {
+    background-color: orange;
+    width: 300px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+.red {
+    background-color: red;
+    width: 300px;
+    margin: 0 auto;
+    height: 50px;
+}
+.navbar{
+    color: orange;
+    font-size: 50px;
+    margin-right: 20px;
+    border-bottom: black 2px solid;
+}
+
+.navbar a {
+
+
+    color: red;
+    text-decoration: none;
+}
+.navbar a:hover{
+
+    color: purple;
+
+}
